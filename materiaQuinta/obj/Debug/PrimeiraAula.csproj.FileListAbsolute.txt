@@ -1,0 +1,8 @@
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\bin\Debug\materiaQuinta.exe.config
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\bin\Debug\materiaQuinta.exe
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\bin\Debug\materiaQuinta.pdb
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\obj\Debug\PrimeiraAula.csproj.AssemblyReference.cache
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\obj\Debug\PrimeiraAula.csproj.SuggestedBindingRedirects.cache
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\obj\Debug\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\obj\Debug\materiaQuinta.exe
+C:\exercicios\exercicios\materiaQuinta\materiaQuinta\obj\Debug\materiaQuinta.pdb
